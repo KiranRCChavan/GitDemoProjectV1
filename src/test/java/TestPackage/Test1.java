@@ -9,13 +9,7 @@ public class Test1 {
 		if(Hungary=="yes") {
 			System.out.println("eat something >>>>");
 		}
-		else {
-			System.out.println("do other work");
-		}
 		
-		else {
-			System.out.println("do other work");
-		}
 		
 		else {
 			System.out.println("do other work");
