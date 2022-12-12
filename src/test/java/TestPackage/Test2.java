@@ -12,6 +12,14 @@ public class Test2 {
 		else {
 			System.out.println("do other work");
 		}
+		else {
+			System.out.println("do other work");
+		}
+		
+		else {
+			System.out.println("do other work");
+		}
+		
 		
 	}
 }
