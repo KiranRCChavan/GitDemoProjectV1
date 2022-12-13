@@ -12,7 +12,7 @@ public class Test1 {
 		
 		
 		else {
-			System.out.println("do other work");
+			System.out.println("dgfghghfhjjhdo other work");
 		}
 		
 	}
